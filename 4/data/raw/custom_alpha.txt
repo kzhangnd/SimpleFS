@@ -1,0 +1,392 @@
+alpha result is -4176
+Number of page faults: 500
+Number of disk reads: 300
+Number of disk writes: 200
+alpha result is -4176
+Number of page faults: 500
+Number of disk reads: 300
+Number of disk writes: 200
+alpha result is -4176
+Number of page faults: 500
+Number of disk reads: 300
+Number of disk writes: 200
+alpha result is -4176
+Number of page faults: 496
+Number of disk reads: 298
+Number of disk writes: 198
+alpha result is -4176
+Number of page faults: 494
+Number of disk reads: 297
+Number of disk writes: 197
+alpha result is -4176
+Number of page faults: 488
+Number of disk reads: 294
+Number of disk writes: 194
+alpha result is -4176
+Number of page faults: 486
+Number of disk reads: 293
+Number of disk writes: 193
+alpha result is -4176
+Number of page faults: 484
+Number of disk reads: 292
+Number of disk writes: 192
+alpha result is -4176
+Number of page faults: 484
+Number of disk reads: 292
+Number of disk writes: 192
+alpha result is -4176
+Number of page faults: 484
+Number of disk reads: 292
+Number of disk writes: 192
+alpha result is -4176
+Number of page faults: 484
+Number of disk reads: 292
+Number of disk writes: 192
+alpha result is -4176
+Number of page faults: 477
+Number of disk reads: 287
+Number of disk writes: 190
+alpha result is -4176
+Number of page faults: 477
+Number of disk reads: 287
+Number of disk writes: 190
+alpha result is -4176
+Number of page faults: 471
+Number of disk reads: 284
+Number of disk writes: 187
+alpha result is -4176
+Number of page faults: 470
+Number of disk reads: 284
+Number of disk writes: 186
+alpha result is -4176
+Number of page faults: 469
+Number of disk reads: 283
+Number of disk writes: 186
+alpha result is -4176
+Number of page faults: 467
+Number of disk reads: 282
+Number of disk writes: 185
+alpha result is -4176
+Number of page faults: 464
+Number of disk reads: 280
+Number of disk writes: 184
+alpha result is -4176
+Number of page faults: 461
+Number of disk reads: 279
+Number of disk writes: 182
+alpha result is -4176
+Number of page faults: 460
+Number of disk reads: 278
+Number of disk writes: 182
+alpha result is -4176
+Number of page faults: 457
+Number of disk reads: 277
+Number of disk writes: 180
+alpha result is -4176
+Number of page faults: 456
+Number of disk reads: 276
+Number of disk writes: 180
+alpha result is -4176
+Number of page faults: 453
+Number of disk reads: 274
+Number of disk writes: 179
+alpha result is -4176
+Number of page faults: 455
+Number of disk reads: 276
+Number of disk writes: 179
+alpha result is -4176
+Number of page faults: 447
+Number of disk reads: 271
+Number of disk writes: 176
+alpha result is -4176
+Number of page faults: 446
+Number of disk reads: 270
+Number of disk writes: 176
+alpha result is -4176
+Number of page faults: 447
+Number of disk reads: 271
+Number of disk writes: 176
+alpha result is -4176
+Number of page faults: 446
+Number of disk reads: 271
+Number of disk writes: 175
+alpha result is -4176
+Number of page faults: 442
+Number of disk reads: 268
+Number of disk writes: 174
+alpha result is -4176
+Number of page faults: 438
+Number of disk reads: 265
+Number of disk writes: 173
+alpha result is -4176
+Number of page faults: 431
+Number of disk reads: 263
+Number of disk writes: 168
+alpha result is -4176
+Number of page faults: 432
+Number of disk reads: 264
+Number of disk writes: 168
+alpha result is -4176
+Number of page faults: 429
+Number of disk reads: 261
+Number of disk writes: 168
+alpha result is -4176
+Number of page faults: 424
+Number of disk reads: 257
+Number of disk writes: 167
+alpha result is -4176
+Number of page faults: 422
+Number of disk reads: 255
+Number of disk writes: 167
+alpha result is -4176
+Number of page faults: 423
+Number of disk reads: 257
+Number of disk writes: 166
+alpha result is -4176
+Number of page faults: 422
+Number of disk reads: 257
+Number of disk writes: 165
+alpha result is -4176
+Number of page faults: 423
+Number of disk reads: 258
+Number of disk writes: 165
+alpha result is -4176
+Number of page faults: 415
+Number of disk reads: 252
+Number of disk writes: 163
+alpha result is -4176
+Number of page faults: 409
+Number of disk reads: 246
+Number of disk writes: 163
+alpha result is -4176
+Number of page faults: 402
+Number of disk reads: 242
+Number of disk writes: 160
+alpha result is -4176
+Number of page faults: 400
+Number of disk reads: 241
+Number of disk writes: 159
+alpha result is -4176
+Number of page faults: 397
+Number of disk reads: 238
+Number of disk writes: 159
+alpha result is -4176
+Number of page faults: 396
+Number of disk reads: 237
+Number of disk writes: 159
+alpha result is -4176
+Number of page faults: 390
+Number of disk reads: 231
+Number of disk writes: 155
+alpha result is -4176
+Number of page faults: 384
+Number of disk reads: 226
+Number of disk writes: 144
+alpha result is -4176
+Number of page faults: 384
+Number of disk reads: 227
+Number of disk writes: 147
+alpha result is -4176
+Number of page faults: 385
+Number of disk reads: 228
+Number of disk writes: 150
+alpha result is -4176
+Number of page faults: 386
+Number of disk reads: 229
+Number of disk writes: 153
+alpha result is -4176
+Number of page faults: 382
+Number of disk reads: 226
+Number of disk writes: 156
+alpha result is -4176
+Number of page faults: 367
+Number of disk reads: 212
+Number of disk writes: 155
+alpha result is -4176
+Number of page faults: 366
+Number of disk reads: 211
+Number of disk writes: 150
+alpha result is -4176
+Number of page faults: 356
+Number of disk reads: 204
+Number of disk writes: 136
+alpha result is -4176
+Number of page faults: 352
+Number of disk reads: 202
+Number of disk writes: 128
+alpha result is -4176
+Number of page faults: 348
+Number of disk reads: 200
+Number of disk writes: 120
+alpha result is -4176
+Number of page faults: 348
+Number of disk reads: 200
+Number of disk writes: 116
+alpha result is -4176
+Number of page faults: 347
+Number of disk reads: 200
+Number of disk writes: 118
+alpha result is -4176
+Number of page faults: 345
+Number of disk reads: 200
+Number of disk writes: 120
+alpha result is -4176
+Number of page faults: 345
+Number of disk reads: 200
+Number of disk writes: 122
+alpha result is -4176
+Number of page faults: 345
+Number of disk reads: 200
+Number of disk writes: 124
+alpha result is -4176
+Number of page faults: 344
+Number of disk reads: 200
+Number of disk writes: 126
+alpha result is -4176
+Number of page faults: 344
+Number of disk reads: 200
+Number of disk writes: 128
+alpha result is -4176
+Number of page faults: 342
+Number of disk reads: 200
+Number of disk writes: 130
+alpha result is -4176
+Number of page faults: 341
+Number of disk reads: 200
+Number of disk writes: 132
+alpha result is -4176
+Number of page faults: 340
+Number of disk reads: 200
+Number of disk writes: 133
+alpha result is -4176
+Number of page faults: 339
+Number of disk reads: 200
+Number of disk writes: 132
+alpha result is -4176
+Number of page faults: 337
+Number of disk reads: 200
+Number of disk writes: 130
+alpha result is -4176
+Number of page faults: 336
+Number of disk reads: 200
+Number of disk writes: 126
+alpha result is -4176
+Number of page faults: 335
+Number of disk reads: 200
+Number of disk writes: 122
+alpha result is -4176
+Number of page faults: 335
+Number of disk reads: 200
+Number of disk writes: 119
+alpha result is -4176
+Number of page faults: 335
+Number of disk reads: 200
+Number of disk writes: 116
+alpha result is -4176
+Number of page faults: 335
+Number of disk reads: 200
+Number of disk writes: 113
+alpha result is -4176
+Number of page faults: 335
+Number of disk reads: 200
+Number of disk writes: 110
+alpha result is -4176
+Number of page faults: 334
+Number of disk reads: 200
+Number of disk writes: 106
+alpha result is -4176
+Number of page faults: 332
+Number of disk reads: 200
+Number of disk writes: 101
+alpha result is -4176
+Number of page faults: 310
+Number of disk reads: 178
+Number of disk writes: 78
+alpha result is -4176
+Number of page faults: 311
+Number of disk reads: 179
+Number of disk writes: 79
+alpha result is -4176
+Number of page faults: 312
+Number of disk reads: 180
+Number of disk writes: 80
+alpha result is -4176
+Number of page faults: 310
+Number of disk reads: 181
+Number of disk writes: 81
+alpha result is -4176
+Number of page faults: 309
+Number of disk reads: 182
+Number of disk writes: 82
+alpha result is -4176
+Number of page faults: 310
+Number of disk reads: 183
+Number of disk writes: 83
+alpha result is -4176
+Number of page faults: 307
+Number of disk reads: 184
+Number of disk writes: 84
+alpha result is -4176
+Number of page faults: 307
+Number of disk reads: 185
+Number of disk writes: 85
+alpha result is -4176
+Number of page faults: 303
+Number of disk reads: 186
+Number of disk writes: 86
+alpha result is -4176
+Number of page faults: 303
+Number of disk reads: 187
+Number of disk writes: 87
+alpha result is -4176
+Number of page faults: 304
+Number of disk reads: 188
+Number of disk writes: 88
+alpha result is -4176
+Number of page faults: 305
+Number of disk reads: 189
+Number of disk writes: 89
+alpha result is -4176
+Number of page faults: 305
+Number of disk reads: 190
+Number of disk writes: 90
+alpha result is -4176
+Number of page faults: 304
+Number of disk reads: 191
+Number of disk writes: 91
+alpha result is -4176
+Number of page faults: 305
+Number of disk reads: 192
+Number of disk writes: 92
+alpha result is -4176
+Number of page faults: 306
+Number of disk reads: 193
+Number of disk writes: 93
+alpha result is -4176
+Number of page faults: 306
+Number of disk reads: 194
+Number of disk writes: 94
+alpha result is -4176
+Number of page faults: 307
+Number of disk reads: 195
+Number of disk writes: 95
+alpha result is -4176
+Number of page faults: 301
+Number of disk reads: 196
+Number of disk writes: 96
+alpha result is -4176
+Number of page faults: 301
+Number of disk reads: 197
+Number of disk writes: 97
+alpha result is -4176
+Number of page faults: 301
+Number of disk reads: 198
+Number of disk writes: 98
+alpha result is -4176
+Number of page faults: 302
+Number of disk reads: 199
+Number of disk writes: 99
+alpha result is -4176
+Number of page faults: 200
+Number of disk reads: 100
+Number of disk writes: 0

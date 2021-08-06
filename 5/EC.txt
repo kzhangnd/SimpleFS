@@ -1,0 +1,55 @@
+The Extra Credit is approached in the following way:
+
+We first divide the problem into 2 parts: 
+	1) make the data blocks contiguous on disk.
+
+	2) pack data in the initial inodes.
+
+It is easy to see that 1) and 2) can be approached independently, as we can first make sure the data blocks are contiguous and then move the orignal inodes to the initial ones.
+
+To solve 1), the basic algorithm is like this:
+
+set an idx variable as ninodeblock+1, since we start right after the inode blocks
+loop through each inodes
+
+	loop through direct pointers: if necessary, "swap" the contents between a) the data block pointed by the direct pointer and b) the data block corresponding to index, increment index
+
+	if necessary, "swap" the contents between a) the data block pointed by the indirect pointer and b) the data block corresponding to index, increment index
+
+	loop through indirect pointers in the indirect block: if necessary, "swap" the contents between a) the data block pointed by the indirect pointer and b) the data block corresponding to index, increment index
+
+	save the batch changes to this inode
+
+In this way, all data blocks will be contiguous and start from 1, as regulated by the index variable.
+
+Note, the "swap" action is trick. There are a couple of things to notice:
+a) if the data block is already at index, we don't swap.
+
+b) if the data block at index is invalid, i.e. it doesn't belong to any inode, we just need to copy the original data block to this new block, validate the new one and invalidate the old one.
+
+c) if the data block at index is valid, and belong to another inode. Let call the current inode we are working on inode a, and thee inode that index data block belongs to inode b. 
+	i) if a != b: We just need to write the changes on inode b (changes in pointer value i.e. metadata) back to disk, since the we save the changes on inode a at the end of each loop. But notice, we always write back the change on data block (the swapping itself)
+
+	ii) if a == b, we don't save back the changes on a until the end of the current loop. So, we need reference to a in the swapping function to keep the metadata consistent. See code for details.
+
+After 1), we have all the data block contiguous. We just need to move the inodes so they are the initial ones.
+
+To solve 2), the basic algorithm is like this:
+
+set an idx variable as 1, since we start with inode 1
+loop through each inodes
+
+	if it is valid, swap its content with inode idx, increment index
+
+
+
+
+
+
+
+
+
+	
+
+
+	

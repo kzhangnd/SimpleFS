@@ -1,0 +1,392 @@
+beta result is -193255
+Number of page faults: 2354
+Number of disk reads: 1471
+Number of disk writes: 883
+beta result is -193255
+Number of page faults: 2026
+Number of disk reads: 1279
+Number of disk writes: 747
+beta result is -193255
+Number of page faults: 1930
+Number of disk reads: 1199
+Number of disk writes: 731
+beta result is -193255
+Number of page faults: 1786
+Number of disk reads: 1103
+Number of disk writes: 683
+beta result is -193255
+Number of page faults: 1666
+Number of disk reads: 1047
+Number of disk writes: 619
+beta result is -193255
+Number of page faults: 1602
+Number of disk reads: 991
+Number of disk writes: 611
+beta result is -193255
+Number of page faults: 1567
+Number of disk reads: 964
+Number of disk writes: 603
+beta result is -193255
+Number of page faults: 1530
+Number of disk reads: 935
+Number of disk writes: 595
+beta result is -193255
+Number of page faults: 1462
+Number of disk reads: 883
+Number of disk writes: 579
+beta result is -193255
+Number of page faults: 1438
+Number of disk reads: 867
+Number of disk writes: 571
+beta result is -193255
+Number of page faults: 1330
+Number of disk reads: 823
+Number of disk writes: 507
+beta result is -193255
+Number of page faults: 1294
+Number of disk reads: 791
+Number of disk writes: 503
+beta result is -193255
+Number of page faults: 1274
+Number of disk reads: 775
+Number of disk writes: 499
+beta result is -193255
+Number of page faults: 1256
+Number of disk reads: 761
+Number of disk writes: 495
+beta result is -193255
+Number of page faults: 1240
+Number of disk reads: 749
+Number of disk writes: 491
+beta result is -193255
+Number of page faults: 1224
+Number of disk reads: 737
+Number of disk writes: 487
+beta result is -193255
+Number of page faults: 1206
+Number of disk reads: 723
+Number of disk writes: 483
+beta result is -193255
+Number of page faults: 1158
+Number of disk reads: 683
+Number of disk writes: 475
+beta result is -193255
+Number of page faults: 1148
+Number of disk reads: 677
+Number of disk writes: 471
+beta result is -193255
+Number of page faults: 1136
+Number of disk reads: 669
+Number of disk writes: 467
+beta result is -193255
+Number of page faults: 1124
+Number of disk reads: 661
+Number of disk writes: 463
+beta result is -193255
+Number of page faults: 1112
+Number of disk reads: 653
+Number of disk writes: 459
+beta result is -193255
+Number of page faults: 1020
+Number of disk reads: 617
+Number of disk writes: 403
+beta result is -193255
+Number of page faults: 1016
+Number of disk reads: 613
+Number of disk writes: 403
+beta result is -193255
+Number of page faults: 988
+Number of disk reads: 589
+Number of disk writes: 399
+beta result is -193255
+Number of page faults: 978
+Number of disk reads: 581
+Number of disk writes: 397
+beta result is -193255
+Number of page faults: 969
+Number of disk reads: 574
+Number of disk writes: 395
+beta result is -193255
+Number of page faults: 958
+Number of disk reads: 565
+Number of disk writes: 393
+beta result is -193255
+Number of page faults: 950
+Number of disk reads: 559
+Number of disk writes: 391
+beta result is -193255
+Number of page faults: 942
+Number of disk reads: 553
+Number of disk writes: 389
+beta result is -193255
+Number of page faults: 935
+Number of disk reads: 548
+Number of disk writes: 387
+beta result is -193255
+Number of page faults: 927
+Number of disk reads: 542
+Number of disk writes: 385
+beta result is -193255
+Number of page faults: 918
+Number of disk reads: 535
+Number of disk writes: 383
+beta result is -193255
+Number of page faults: 910
+Number of disk reads: 529
+Number of disk writes: 381
+beta result is -193255
+Number of page faults: 901
+Number of disk reads: 522
+Number of disk writes: 379
+beta result is -193255
+Number of page faults: 891
+Number of disk reads: 516
+Number of disk writes: 375
+beta result is -193255
+Number of page faults: 854
+Number of disk reads: 481
+Number of disk writes: 373
+beta result is -193255
+Number of page faults: 849
+Number of disk reads: 478
+Number of disk writes: 371
+beta result is -193255
+Number of page faults: 844
+Number of disk reads: 475
+Number of disk writes: 369
+beta result is -193255
+Number of page faults: 839
+Number of disk reads: 472
+Number of disk writes: 367
+beta result is -193255
+Number of page faults: 833
+Number of disk reads: 468
+Number of disk writes: 365
+beta result is -193255
+Number of page faults: 827
+Number of disk reads: 464
+Number of disk writes: 363
+beta result is -193255
+Number of page faults: 822
+Number of disk reads: 461
+Number of disk writes: 361
+beta result is -193255
+Number of page faults: 818
+Number of disk reads: 459
+Number of disk writes: 359
+beta result is -193255
+Number of page faults: 814
+Number of disk reads: 457
+Number of disk writes: 357
+beta result is -193255
+Number of page faults: 810
+Number of disk reads: 455
+Number of disk writes: 355
+beta result is -193255
+Number of page faults: 806
+Number of disk reads: 453
+Number of disk writes: 353
+beta result is -193255
+Number of page faults: 727
+Number of disk reads: 426
+Number of disk writes: 301
+beta result is -193255
+Number of page faults: 726
+Number of disk reads: 425
+Number of disk writes: 301
+beta result is -193255
+Number of page faults: 697
+Number of disk reads: 398
+Number of disk writes: 299
+beta result is -193255
+Number of page faults: 694
+Number of disk reads: 396
+Number of disk writes: 298
+beta result is -193255
+Number of page faults: 691
+Number of disk reads: 394
+Number of disk writes: 297
+beta result is -193255
+Number of page faults: 688
+Number of disk reads: 392
+Number of disk writes: 296
+beta result is -193255
+Number of page faults: 685
+Number of disk reads: 390
+Number of disk writes: 295
+beta result is -193255
+Number of page faults: 682
+Number of disk reads: 388
+Number of disk writes: 294
+beta result is -193255
+Number of page faults: 679
+Number of disk reads: 386
+Number of disk writes: 293
+beta result is -193255
+Number of page faults: 676
+Number of disk reads: 384
+Number of disk writes: 292
+beta result is -193255
+Number of page faults: 673
+Number of disk reads: 382
+Number of disk writes: 291
+beta result is -193255
+Number of page faults: 670
+Number of disk reads: 380
+Number of disk writes: 290
+beta result is -193255
+Number of page faults: 667
+Number of disk reads: 378
+Number of disk writes: 289
+beta result is -193255
+Number of page faults: 664
+Number of disk reads: 376
+Number of disk writes: 288
+beta result is -193255
+Number of page faults: 661
+Number of disk reads: 374
+Number of disk writes: 287
+beta result is -193255
+Number of page faults: 658
+Number of disk reads: 372
+Number of disk writes: 286
+beta result is -193255
+Number of page faults: 655
+Number of disk reads: 370
+Number of disk writes: 285
+beta result is -193255
+Number of page faults: 652
+Number of disk reads: 368
+Number of disk writes: 284
+beta result is -193255
+Number of page faults: 649
+Number of disk reads: 366
+Number of disk writes: 283
+beta result is -193255
+Number of page faults: 646
+Number of disk reads: 364
+Number of disk writes: 282
+beta result is -193255
+Number of page faults: 643
+Number of disk reads: 362
+Number of disk writes: 281
+beta result is -193255
+Number of page faults: 640
+Number of disk reads: 360
+Number of disk writes: 280
+beta result is -193255
+Number of page faults: 637
+Number of disk reads: 358
+Number of disk writes: 279
+beta result is -193255
+Number of page faults: 634
+Number of disk reads: 356
+Number of disk writes: 278
+beta result is -193255
+Number of page faults: 631
+Number of disk reads: 354
+Number of disk writes: 277
+beta result is -193255
+Number of page faults: 628
+Number of disk reads: 352
+Number of disk writes: 276
+beta result is -193255
+Number of page faults: 574
+Number of disk reads: 300
+Number of disk writes: 224
+beta result is -193255
+Number of page faults: 573
+Number of disk reads: 300
+Number of disk writes: 223
+beta result is -193255
+Number of page faults: 572
+Number of disk reads: 300
+Number of disk writes: 222
+beta result is -193255
+Number of page faults: 571
+Number of disk reads: 300
+Number of disk writes: 221
+beta result is -193255
+Number of page faults: 570
+Number of disk reads: 300
+Number of disk writes: 220
+beta result is -193255
+Number of page faults: 569
+Number of disk reads: 300
+Number of disk writes: 219
+beta result is -193255
+Number of page faults: 568
+Number of disk reads: 300
+Number of disk writes: 218
+beta result is -193255
+Number of page faults: 567
+Number of disk reads: 300
+Number of disk writes: 217
+beta result is -193255
+Number of page faults: 566
+Number of disk reads: 300
+Number of disk writes: 216
+beta result is -193255
+Number of page faults: 565
+Number of disk reads: 300
+Number of disk writes: 215
+beta result is -193255
+Number of page faults: 564
+Number of disk reads: 300
+Number of disk writes: 214
+beta result is -193255
+Number of page faults: 563
+Number of disk reads: 300
+Number of disk writes: 213
+beta result is -193255
+Number of page faults: 562
+Number of disk reads: 300
+Number of disk writes: 212
+beta result is -193255
+Number of page faults: 561
+Number of disk reads: 300
+Number of disk writes: 211
+beta result is -193255
+Number of page faults: 560
+Number of disk reads: 300
+Number of disk writes: 210
+beta result is -193255
+Number of page faults: 559
+Number of disk reads: 300
+Number of disk writes: 209
+beta result is -193255
+Number of page faults: 558
+Number of disk reads: 300
+Number of disk writes: 208
+beta result is -193255
+Number of page faults: 557
+Number of disk reads: 300
+Number of disk writes: 207
+beta result is -193255
+Number of page faults: 556
+Number of disk reads: 300
+Number of disk writes: 206
+beta result is -193255
+Number of page faults: 555
+Number of disk reads: 300
+Number of disk writes: 205
+beta result is -193255
+Number of page faults: 554
+Number of disk reads: 300
+Number of disk writes: 204
+beta result is -193255
+Number of page faults: 553
+Number of disk reads: 300
+Number of disk writes: 203
+beta result is -193255
+Number of page faults: 552
+Number of disk reads: 300
+Number of disk writes: 202
+beta result is -193255
+Number of page faults: 551
+Number of disk reads: 300
+Number of disk writes: 201
+beta result is -193255
+Number of page faults: 200
+Number of disk reads: 100
+Number of disk writes: 0

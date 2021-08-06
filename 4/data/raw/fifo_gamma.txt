@@ -1,0 +1,392 @@
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+gamma result is 522240000
+Number of page faults: 200
+Number of disk reads: 100
+Number of disk writes: 0

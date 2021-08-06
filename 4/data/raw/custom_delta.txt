@@ -1,0 +1,392 @@
+delta result is 1044480000
+Number of page faults: 2143
+Number of disk reads: 2043
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 2124
+Number of disk reads: 2024
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 2105
+Number of disk reads: 2005
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 2086
+Number of disk reads: 1986
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 2067
+Number of disk reads: 1967
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 2048
+Number of disk reads: 1948
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 2029
+Number of disk reads: 1929
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 2010
+Number of disk reads: 1910
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1991
+Number of disk reads: 1891
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1972
+Number of disk reads: 1872
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1953
+Number of disk reads: 1853
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1934
+Number of disk reads: 1834
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1915
+Number of disk reads: 1815
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1896
+Number of disk reads: 1796
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1877
+Number of disk reads: 1777
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1858
+Number of disk reads: 1758
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1839
+Number of disk reads: 1739
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1820
+Number of disk reads: 1720
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1801
+Number of disk reads: 1701
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1782
+Number of disk reads: 1682
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1763
+Number of disk reads: 1663
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1744
+Number of disk reads: 1644
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1725
+Number of disk reads: 1625
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1706
+Number of disk reads: 1606
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1687
+Number of disk reads: 1587
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1668
+Number of disk reads: 1568
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1649
+Number of disk reads: 1549
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1630
+Number of disk reads: 1530
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1611
+Number of disk reads: 1511
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1592
+Number of disk reads: 1492
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1573
+Number of disk reads: 1473
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1554
+Number of disk reads: 1454
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1535
+Number of disk reads: 1435
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1516
+Number of disk reads: 1416
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1497
+Number of disk reads: 1397
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1478
+Number of disk reads: 1378
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1459
+Number of disk reads: 1359
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1440
+Number of disk reads: 1340
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1421
+Number of disk reads: 1321
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1402
+Number of disk reads: 1302
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1383
+Number of disk reads: 1283
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1364
+Number of disk reads: 1264
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1345
+Number of disk reads: 1245
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1326
+Number of disk reads: 1226
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1307
+Number of disk reads: 1207
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1288
+Number of disk reads: 1188
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1269
+Number of disk reads: 1169
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1250
+Number of disk reads: 1150
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1249
+Number of disk reads: 1149
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1248
+Number of disk reads: 1148
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1247
+Number of disk reads: 1147
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1246
+Number of disk reads: 1146
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1245
+Number of disk reads: 1145
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1244
+Number of disk reads: 1144
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1243
+Number of disk reads: 1143
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1242
+Number of disk reads: 1142
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1241
+Number of disk reads: 1141
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1240
+Number of disk reads: 1140
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1239
+Number of disk reads: 1139
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1238
+Number of disk reads: 1138
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1237
+Number of disk reads: 1137
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1236
+Number of disk reads: 1136
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1235
+Number of disk reads: 1135
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1234
+Number of disk reads: 1134
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 1200
+Number of disk reads: 1100
+Number of disk writes: 100
+delta result is 1044480000
+Number of page faults: 200
+Number of disk reads: 100
+Number of disk writes: 0
